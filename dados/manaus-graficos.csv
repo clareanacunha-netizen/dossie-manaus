@@ -1,0 +1,12 @@
+﻿grafico,referencia,rotulo,valor,unidade,fontes,nota
+repasses,2026-07-22,Julho,18,R$ milhões,F05,Pagamento informado na apresentação do Sinetram
+repasses,2026-08-19,Agosto,3,R$ milhões,F05,Pagamento informado na apresentação do Sinetram
+repasses,2026-09-25,Setembro,3,R$ milhões,F05,Pagamento informado na apresentação do Sinetram
+repasses,2026-10-23,Outubro,3,R$ milhões,F05,Pagamento informado na apresentação do Sinetram
+tarifas,2025-06,Valor defendido pelo Estado,2.50,R$ por viagem,F02,Meia-passagem; base de compra defendida em junho de 2025
+tarifas,2025-06,Valor defendido pela Prefeitura,8.20,R$ por viagem,F01|F02,Tarifa de remuneração informada em junho de 2025
+exemplo_vt,hipotetico,Salário básico,2000,R$ por mês,F10,Hipótese didática; não é renda observada em Manaus
+exemplo_vt,hipotetico,Viagens pagas,44,viagens por mês,F10,Hipótese didática; considerar integrações
+exemplo_vt,hipotetico,Limite de participação,0.06,fração do salário,F10,Regra geral do vale-transporte
+exemplo_vt,2026-03,Tarifa anterior,6,R$ por viagem,F09,Valor anterior informado pela Prefeitura
+exemplo_vt,2026-03,Tarifa reduzida,5,R$ por viagem,F09,Valor posterior informado pela Prefeitura
